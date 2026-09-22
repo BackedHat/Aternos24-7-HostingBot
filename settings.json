@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "unchartedsmp.aternos.me",
+    "port": 22757,
     "version": "",
     "try-creative": false
   },
